@@ -14,42 +14,36 @@
   ##
   
 <div>
-  <h2 align="center">🚀 Atualmente tenho conhecimento sobre as seguintes linguagens e ferramentas 🚀</h2>
+  <h2 align="center">🚀 Atualmente tenho alguns conhecimentos sobre as seguintes linguagens, softwares e IDE's 🚀</h2>
 </div>
   
 
 <div align="center" style="display: inline_block"><br>
 
-  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" height="35px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   
-  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" height="35px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   
-  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="35px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   
-  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="35px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   
-  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" height="35px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   
-  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="35px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br>
+  <br>
+  <img align="center" height="35px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  
+  <img align="center" height="35px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+  
+  <img align="center" height="35px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <br>
+  <br>
+  <img align="center" height="35px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 
-  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  
-  <img align="center" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 
 </div>
-
-
-
-## 🌐 Índice de conteúdo
-
-*/* [autoacceptlol](https://github.com/SkillOnex/autoacceptlol)<br>
-* [Site-Pirituba](https://github.com/SkillOnex/Site-Pirituba)<br>
-* [miami-beach-SITE](https://github.com/SkillOnex/miami-beach-SITE)<br>
-* [BotDiscord](https://github.com/SkillOnex/BotDiscord)<br>
-* [AutenticarUsuario](https://github.com/SkillOnex/AutenticarUsuario)<br>
-* [NavegadorSimples](https://github.com/SkillOnex/NavegadorSimples)<br>
-* [ModernLogin](https://github.com/SkillOnex/ModernLogin)<br>
-* [SimpleLoginTemplate](https://github.com/SkillOnex/SimpleLoginTemplate)<br>\*
 
 ## 🔗 Links 
 [![Discord](https://img.shields.io/discord/1057462143986970686?label=Discord&style=social)](https://discord.gg/kWGg7ZN)
